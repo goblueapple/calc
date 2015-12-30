@@ -76,7 +76,7 @@ public class calc {
 		     String kdkd = "484";
 			}
 		});
-		btnNewButton_1.setBounds(153, 61, 75, 25);
+		btnNewButton_1.setBounds(111, 110, 75, 25);
 		btnNewButton_1.setText("New Button");
 
 	}
